@@ -4,9 +4,9 @@ go 1.24.0
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0
-	github.com/dgraph-io/ristretto/v2 v2.2.0
-	github.com/dustin/go-humanize v1.0.1
-	github.com/google/flatbuffers v25.2.10+incompatible
+	github.com/dgraph-io/ristretto/v2 v2.4.2
+	github.com/dustin/go-humanize v1.1.0
+	github.com/google/flatbuffers v25.12.19+incompatible
 	github.com/klauspost/compress v1.18.0
 	github.com/spf13/cobra v1.9.1
 	github.com/stretchr/testify v1.11.1
